@@ -1,1 +1,0 @@
-﻿Microsoft Windows [Version 10.0.19045.4412]\r\n\(c) Microsoft Corporation. All rights reserved.\r\n\\r\n\C:\InterviewCode\VendorConfigChanges\ClientConfigurationFiles\dev>cd C:\InterviewCode\VendorConfigChanges\ClientConfigurationFiles\dev\r\n\\r\n\C:\InterviewCode\VendorConfigChanges\ClientConfigurationFiles\dev>git add -A\r\n\
