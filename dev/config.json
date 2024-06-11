@@ -1,10 +1,4 @@
-{ "Files": [
-    {
-        "FileName": "xyz.txt"
-      },
-      {
-        "FileName": "abc.txt"
-      }
-    ]
+{
+  "FileNames": [ "contexture.txt", "contexture1.txt", "contexture2.txt", "contexture3.txt", "contexture4.txt" ]
 }
     
